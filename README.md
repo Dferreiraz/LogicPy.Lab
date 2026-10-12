@@ -26,7 +26,7 @@
 
 ## 💻 Sobre o projeto
 
-O **LogicPy.Lab** é um laboratório de estudos dedicado à lógica de programação e aos fundamentos da linguagem Python.
+O **LogicPy.Lab** é um laboratório de estudos dedicado à lógica de programação e aos fundamentos da linguagem Python aprendidos após Intensivão de Python da Hashtag.
 
 O projeto reúne scripts e aplicações executadas via terminal (CLI), desenvolvidos para transformar conceitos teóricos em soluções práticas. Os exercícios abordam desde estruturas condicionais e laços de repetição até manipulação de dados, criação de funções e desenvolvimento de pequenos sistemas interativos.
 
